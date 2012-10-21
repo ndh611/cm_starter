@@ -1,0 +1,15 @@
+/*
+Theme Name: Coffeemug Starter
+Theme URI: http://coffeemugvn.com
+Description: Starting point for custom theme making, based on clearn-start-theme.com, bones, and many other great resources
+Version: 1.0
+Author: Hieu Nguyen
+Author URI: http://facebook.com/hieubeo
+
+Tags: clean, basic, starter, functions library
+
+The CSS and HTML are released under the GPL:
+http://www.opensource.org/licenses/gpl-3.0.html
+*/
+
+@import "css/main.css";

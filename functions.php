@@ -1,0 +1,10 @@
+<?php
+require_once('functions/lib_init.php');
+require_once('functions/lib_sidebars.php');
+require_once('functions/lib_comments.php');
+require_once('functions/lib_menu.php');
+require_once('functions/lib_breadcrumbs.php');
+//require_once('functions/lib_custom_types.php');
+//require_once('functions/lib_related.php');
+require_once('functions/lib_pagenavi.php');
+//require_once('functions/lib_wpml.php');
